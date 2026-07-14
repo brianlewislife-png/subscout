@@ -8,6 +8,9 @@
 <img width="717" height="1600" alt="WhatsApp Image 2026-07-14 at 03 26 09" src="https://github.com/user-attachments/assets/4bf18988-4b0c-415c-8c3a-e87033bc6e60" />
 
 
+<img width="995" height="1280" alt="WhatsApp Image 2026-07-14 at 03 12 04" src="https://github.com/user-attachments/assets/e87e6b89-917c-4567-97b8-ec0259258672" />
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,20:0f172a,40:1e1b4b,60:0f172a,80:0c1222,100:0a0e1a&height=240&section=header&text=SUBSCOUT&fontSize=38&fontColor=00D4FF&fontAlignY=36&animation=fadeIn&desc=Subdomain%20Scanner%20%20%20%202026&descSize=18&descColor=C084FC&descAlignY=62&descAlign=50" width="100%"/>
 
@@ -22,12 +25,6 @@
 [![Shell: Bash](https://img.shields.io/badge/Shell-Bash-00C853?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 </div>
-
----
-
-
-
-<img width="995" height="1280" alt="WhatsApp Image 2026-07-14 at 03 12 04" src="https://github.com/user-attachments/assets/e87e6b89-917c-4567-97b8-ec0259258672" />
 
 
 
