@@ -1,7 +1,12 @@
 <div align="center">
 
 
-<img width="717" height="1600" alt="WhatsApp Image 2026-07-14 at 03 26 09" src="https://github.com/user-attachments/assets/4e461d46-9ec2-46c2-9223-3117db42cd26" />
+<img width="1536" height="1024" alt="WhatsApp Image 2026-07-14 at 03 49 25(1)" src="https://github.com/user-attachments/assets/210bbb15-160a-4c94-8ef3-591b35f890a3" />
+
+
+
+<img width="717" height="1600" alt="WhatsApp Image 2026-07-14 at 03 26 09" src="https://github.com/user-attachments/assets/4bf18988-4b0c-415c-8c3a-e87033bc6e60" />
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,20:0f172a,40:1e1b4b,60:0f172a,80:0c1222,100:0a0e1a&height=240&section=header&text=SUBSCOUT&fontSize=38&fontColor=00D4FF&fontAlignY=36&animation=fadeIn&desc=Subdomain%20Scanner%20%20%20%202026&descSize=18&descColor=C084FC&descAlignY=62&descAlign=50" width="100%"/>
